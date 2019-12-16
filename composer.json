@@ -1,0 +1,19 @@
+{
+    "name": "irek/framework",
+    "description": "frame",
+    "authors": [
+        {
+            "name": "irek",
+            "email": "azpirin123z@yandex.ru"
+        }
+    ],
+    "require": {
+        "slim/slim": "^4.0",
+        "slim/http": "^0.8.0"
+    },
+    "autoload": {
+        "files": [
+            "public/index.php"
+        ]
+    }
+}
